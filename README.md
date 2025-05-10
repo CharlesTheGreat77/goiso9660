@@ -1,7 +1,7 @@
 # goiso9660
 
 [![Go Version](https://img.shields.io/github/go-mod/go-version/charlesthegreat77/goiso9660?style=flat-square)](https://golang.org)
-[![Go Report Card](https://goreportcard.com/badge/github.com/charlesthegreat77/goiso9660?style=flat-square)](https://goreportcard.com/report/github.com/charlesthegreat77/goiso9660)
+[![Go Report Card](https://goreportcard.com/badge/github.com/charlesthegreat77/goiso9660)](https://goreportcard.com/report/github.com/charlesthegreat77/goiso9660)
 
 **goiso9660** empowers Go developers to programmatically **create** ISO9660 (Level 1) and Joliet level 3-compliant disc images. Built with a focus on modularity and adherence to the ECMA-119 standard, it provides both a library for integration and a basic command-line tool for quick image *generation*.
 
