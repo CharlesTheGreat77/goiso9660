@@ -5,7 +5,7 @@
 
 **goiso9660** empowers Go developers to programmatically **create** ISO9660 (Level 1) and Joliet level 3-compliant disc images. Built with a focus on modularity and adherence to the ECMA-119 standard, it provides both a library for integration and a basic command-line tool for quick image *generation*.
 
-Whether you're **archiving** data, **preparing** software distributions, **exploring** file system structures, or **hidding** payloads in iso files, goiso9660 offers a modular Go-native solution.
+Whether you're **archiving** data, **preparing** software distributions, **exploring** file system structures, or **hiding** payloads in iso files, goiso9660 offers a modular Go-native solution.
 
 ## 🌟 Core Features
 
